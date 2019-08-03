@@ -1,7 +1,7 @@
 # openBioHacks
 Biohacking is a vibrant new movement in the scientific community, in which people apply the hacker methodology to biological systems.
 This unique movement has a profound potential to change how we view the biological world, and how we use it to improve our lives.
-Biohacking tools, however, are expensive, and this often pushes people away from biohacking before they even have a chance to start. 
+Biohacking tools, however, are expensive, and this often excludes people from biohacking before they even have a chance to start. 
 This repository seeks to change that.
 
 This page simply seeks to get DIY biotechnology and biohacking tools out into the open.
